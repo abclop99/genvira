@@ -18,7 +18,8 @@ draft: false
 
 Welcome to Genvira Biosciences. We’ve just moved into our new headquarters which is situated near Ottawa’s International Airport. Our new, state-of-the-art laboratory shares a secure building with other biosciences companies. We’re proud to introduce you to our 5,000 square foot headquarters.
 
-Genvira Biosciences designs, constructs and characterizes customized DNA and RNA viruses for
+Genvira Biosciences started as a financially independent core service within the Ottawa Hospital Research Institute in 2015. 
+Genvira Biosciences designs, constructs and characterizes customized DNA and RNA viruses for:
 - Cancer immunotherapy
 - Gene therapy
 - Vaccines
