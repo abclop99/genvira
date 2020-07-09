@@ -48,13 +48,13 @@ relativeURLs = true
     
     # Footer information
     
-    address = """310 Hunt Club Road East, 3rd Floor, Ottawa,
-        <br> ON K1V 1C1, Canada
-        <br> Tel: (613) 695-4718
+    address = """310 Hunt Club Rd, Suite 304
+        <br> Ottawa, Ontario K1V&nbsp;1C1, Canada
+        <br> Tel: +1 (613) 695-4718
         <br>
         """
     
-    copyright = "© Genvira 2020"
+    copyright = "© 2020 Genvira Biosciences Inc. All Rights Reserved"
     
     about_us = "Specialists in viral vector engineering for cancer immunotherapy, gene therapy, and vaccines."
     
