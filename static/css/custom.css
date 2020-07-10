@@ -81,9 +81,33 @@
 */
 
 #heading-breadcrumbs {
-  background: url('../img/banners/banner-cells-blue.jpg') center center repeat;
-  padding: 2em 0;
-  padding-top: 4em;
-  padding-bottom: 1em;
-  margin-bottom: 3em;
+    background: url('../img/banners/New-baner-example.jpg') center center repeat;
+    padding: 2em 0;
+    padding-top: 15em;
+    padding-bottom: 1em;
+    margin-bottom: 3em;
+    margin-top: -9.7em;
+    background-position: 0% 10%;
+}
+
+#navbar {
+    background-color: transparent;
+    background: linear-gradient(0deg, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 100%);
+    height: 7em;
+}
+
+.navbar-brand.home > img.hidden-xs {
+    height: 55px;
+}
+.navbar-brand.home > img.visible-xs {
+    height: 40px;
+}
+
+.navbar-toggle {
+    background-color: rgba(255, 255, 255, .7);
+    border-radius: 10%;
+}
+
+#all {
+    background-color: #e0efff;
 }
