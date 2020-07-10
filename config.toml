@@ -41,10 +41,8 @@ relativeURLs = true
     
     style = "blue"
 
-    logo = "img/logo/logo.png"
-    logo_small = "img/logo/logo_small.png"
-    
-    banner = "img/banners/banner-cells-blue.jpg"
+    logo = "img/logo/genvira_logo_true_transparent.png"
+    logo_small = "img/logo/genvira_logo_true_transparent.png"
     
     # Footer information
     
