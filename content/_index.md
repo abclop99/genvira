@@ -7,26 +7,26 @@ draft: false
 {{< flex >}}
 
 {{< flex-column >}}
-  <center>
-        {{< figure src="/img/carousel/cell-viral-engineer.png" link="/cell-and-viral-engineering" width="100%" title="Cell and Viral Engineering" >}}
+  <center style="border-right: 1px solid gray; padding: 20px; border-collapse: collapse;">
+        {{< figure src="/img/carousel/cell-viral-engineering.jpg" link="/cell-and-viral-engineering" width="100%" title="Cell and Viral Engineering" >}}
   </center>
 {{< /flex-column >}}
 
 {{< flex-column >}}
-  <center>
-        {{< figure src="/img/carousel/assay-dev.png" link="assay-development" width="100%" title="Assay Development" >}}
+  <center style="border-right: 1px solid gray; padding: 20px; border-collapse: collapse;">
+        {{< figure src="/img/carousel/assay-dev.jpg" link="assay-development" width="100%" title="Assay Development" >}}
   </center>
 {{< /flex-column >}}
 
 {{< flex-column >}}
-  <center>
-        {{< figure src="/img/carousel/animal-models.png" link="animal-models" width="100%" title="Animal Models" >}}
+  <center style="border-right: 1px solid gray; padding: 20px; border-collapse: collapse;">
+        {{< figure src="/img/carousel/animal-models.jpg" link="animal-models" width="100%" title="Animal Models" >}}
   </center>
 {{< /flex-column >}}
 
 {{< flex-column >}}
-  <center>
-        {{< figure src="/img/carousel/production.png" link="process-development-and-small-scale-production" width="100%" title="Process Development and Small-scale Production" >}}
+  <center style="padding: 20px; border-collapse: collapse;">
+        {{< figure src="/img/carousel/production.jpg" link="process-development-and-small-scale-production" width="100%" title="PD and Small-scale Production" >}}
   </center>
 {{< /flex-column >}}
 
