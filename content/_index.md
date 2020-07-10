@@ -32,6 +32,8 @@ draft: false
 
 {{< /flex >}}
 
+&nbsp;
+
 Genvira specializes in viral engineering. We design, construct and characterize customized DNA and RNA viruses for:
 - Cancer immunotherapy
 - Gene therapy
