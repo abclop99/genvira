@@ -4,6 +4,7 @@ date: 2020-07-07T14:11:18-07:00
 draft: false
 ---
 
+<!--
 {{< flex >}}
 
 {{< flex-column >}}
@@ -15,6 +16,13 @@ draft: false
 {{< /flex-column >}}
 
 {{< /flex >}}
+
+-->
+
+
+{{< youtube id="IYcGvDIV3BI" autoplay="false" >}}
+
+&nbsp;
 
 Welcome to Genvira Biosciences. We’ve just moved into our new headquarters which is situated near Ottawa’s International Airport. Our new, state-of-the-art laboratory shares a secure building with other biosciences companies. We’re proud to introduce you to our 5,000 square foot headquarters.
 
