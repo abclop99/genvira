@@ -90,9 +90,19 @@
     margin-top: -9.7em;
 }
 
-#navbar {
+.navbar-affixed-top.affix {
+    box-shadow: none;
+}
+
+.navbar-affixed-top.affix-top > #navbar {
     background-color: transparent;
-    background: linear-gradient(0deg, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 100%);
+    background: linear-gradient(0deg, rgba(255,255,255,0) 0%, rgba(255,255,255,.85) 60%, rgba(255,255,255,.98) 100%);
+    height: 7em;
+}
+
+.navbar-affixed-top.affix > #navbar {
+    background-color: transparent;
+    background: linear-gradient(0deg, rgba(255,255,255,0) 0%, rgba(255,255,255,.8) 60%, rgba(255,255,255,.95) 100%);
     height: 7em;
 }
 
