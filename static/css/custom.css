@@ -42,10 +42,22 @@
     background: url('../img/banners/New-baner-example.jpg') center center repeat;
     background-size: cover;
     padding: 2em 0;
-    padding-top: 14em;
+    padding-top: 10em;
     padding-bottom: 0.7em;
     margin-bottom: 3em;
-    margin-top: -9.7em;
+    margin-top: -9em;
+}
+
+@media only screen and (max-width: 750px) {
+    
+    #heading-breadcrumbs {
+        padding: 2em 0;
+        padding-top: 7em;
+        padding-bottom: 0.7em;
+        margin-bottom: 3em;
+        margin-top: -7em;
+    }
+    
 }
 
 .navbar-affixed-top.affix {
