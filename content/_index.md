@@ -4,7 +4,7 @@ date: 2020-07-07T13:45:16-07:00
 draft: false
 ---
 
-{{< flex >}}
+{{< flex id="frontpage-boxes" >}}
 
 {{< flex-column >}}
   <center style="border-right: 1px solid gray; padding: 20px; border-collapse: collapse;">
