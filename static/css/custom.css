@@ -95,4 +95,15 @@
 
 #all {
     background-color: #e0efff;
+#frontpage-boxes {
+    overflow: hidden;
+}
+#frontpage-boxes > .flex-column {
+    border-collapse: collapse;
+    border-top: 1px solid lightgray;
+    border-left: 1px solid lightgray;
+    margin-top: -1px;
+    margin-left: -1px;
+}
+
 }
