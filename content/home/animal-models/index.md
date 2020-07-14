@@ -2,6 +2,7 @@
 title: "Animal Models"
 date: 2020-07-08T22:53:37-07:00
 draft: false
+type: "page"
 ---
 
 Animal models conducted in-house and through our collaborators
@@ -15,19 +16,19 @@ Animal models conducted in-house and through our collaborators
 
 {{< flex-column >}}
   <center>
-    <img src="/img/animal-1.jpg", width="100%">
+    {{< img src="animal-1.jpg" width="100%" >}}
   </center>
 {{< /flex-column >}}
 
 {{< flex-column >}}
   <center>
-    <img src="/img/animal-2.png", width="100%" >
+    {{< img src="animal-2.png" width="90%" >}}
   </center>
 {{< /flex-column >}}
 
 {{< flex-column >}}
   <center>
-    <img src="/img/animal-3.png", width="100%" >
+    {{< img src="animal-3.png" width="80%" >}}
   </center>
 {{< /flex-column >}}
 

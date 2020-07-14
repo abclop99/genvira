@@ -2,31 +2,33 @@
 title: "Home"
 date: 2020-07-07T13:45:16-07:00
 draft: false
+aliases:
+    - /home/
 ---
 
 {{< flex id="frontpage-boxes" >}}
 
 {{< flex-column >}}
   <center style=>
-        {{< figure src="/img/carousel/cell-viral-engineering.jpg" link="/cell-and-viral-engineering" width="100%" title="Cell and Viral Engineering" >}}
+        {{< figure src="cell-viral-engineering.jpg" link="/home/cell-and-viral-engineering" width="100%" title="Cell and Viral Engineering" >}}
   </center>
 {{< /flex-column >}}
 
 {{< flex-column >}}
   <center>
-        {{< figure src="/img/carousel/assay-dev.jpg" link="assay-development" width="100%" title="Assay Development" >}}
+        {{< figure src="assay-dev.jpg" link="/home/assay-development" width="100%" title="Assay Development" >}}
   </center>
 {{< /flex-column >}}
 
 {{< flex-column >}}
   <center>
-        {{< figure src="/img/carousel/animal-models.jpg" link="animal-models" width="100%" title="Animal Models" >}}
+        {{< figure src="animal-models.jpg" link="/home/animal-models" width="100%" title="Animal Models" >}}
   </center>
 {{< /flex-column >}}
 
 {{< flex-column >}}
   <center>
-        {{< figure src="/img/carousel/production.jpg" link="process-development-and-small-scale-production" width="100%" title="PD and Small-scale Production" >}}
+        {{< figure src="production.jpg" link="/home/process-development-and-small-scale-production" width="100%" title="PD and Small-scale Production" >}}
   </center>
 {{< /flex-column >}}
 
@@ -53,4 +55,4 @@ Our small scale production suite can manufacture sufficient materials for pre-cl
 
 We’re proud to use our world-leading proprietary engineering technologies to quickly deliver high-quality engineered vectors and cells.
 
-{{< figure src="/img/diagram.png" link="www.google.com" width="65%" >}}
+{{< img src="diagram.png" width="70%" alt="Diagram for Design, Engineering, Production, Test" >}}

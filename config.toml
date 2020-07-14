@@ -44,6 +44,8 @@ relativeURLs = true
     logo = "img/logo/genvira_logo_true_transparent.png"
     logo_small = "img/logo/genvira_logo_true_transparent.png"
     
+    date_format = "Jan 2, 2006"
+    
     # Footer information
     
     address = """310 Hunt Club Rd, Suite 304

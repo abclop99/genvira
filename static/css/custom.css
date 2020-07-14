@@ -39,7 +39,7 @@
 }
 
 #heading-breadcrumbs {
-    background: url('../img/banners/New-baner-example.jpg') center center repeat;
+    background: url('../img/banners/New-banner-example.jpg') center center repeat;
     background-size: cover;
     padding: 2em 0;
     padding-top: 12em;
@@ -96,6 +96,8 @@
 #all {
     background-color: #e0efff;
 }
+
+/* begin styling for boxes */
 
 #frontpage-boxes {
     overflow: hidden;
@@ -162,3 +164,5 @@
         text-shadow: 2px 2px 4px #000000;
     }
 }
+
+/* end styling for boxes */

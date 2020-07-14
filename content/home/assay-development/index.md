@@ -2,6 +2,7 @@
 title: "Assay Development"
 date: 2020-07-08T22:53:16-07:00
 draft: false
+type: "page"
 ---
 
 For Viral Vectors:
@@ -23,19 +24,19 @@ For Upstream and downstream processes
 {{< flex >}}
 
 {{< flex-column >}}
-    <img src="/img/assay-1.jpg", height=220px>
+    {{< img src="assay-1.jpg" width="90%" >}}
 {{< /flex-column >}}
 
 {{< flex-column >}}
-    <img src="/img/assay-2.jpg", height=220px >
+    {{< img src="assay-2.jpg" width="90%" >}}
 {{< /flex-column >}}
 
 {{< flex-column >}}
-    <img src="/img/assay-3.jpg", height=240px>
+    {{< img src="assay-3.jpg" width="90%" >}}
 {{< /flex-column >}}
 
 {{< flex-column >}}
-    <img src="/img/assay-4.jpg", height=240px >
+    {{< img src="assay-4.jpg" width="90%" >}}
 {{< /flex-column >}}
 
 {{< /flex >}}

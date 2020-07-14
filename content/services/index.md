@@ -13,13 +13,13 @@ draft: false
 
 {{< flex-column >}}
   <center>
-    <img src="/img/viral vector rm 2.jpg", width="80%">
+    {{< img src="viral vector rm 2.jpg" width="90%" alt="Viral Vector Room 2" >}}
   </center>
 {{< /flex-column >}}
 
 {{< flex-column >}}
   <center>
-    <img src="/img/biochemistry lab 1.jpg", width="80%" >
+    {{< img src="biochemistry lab 1.jpg" width="90%" alt="Biochemistry Lab 1" >}}
   </center>
 {{< /flex-column >}}
 

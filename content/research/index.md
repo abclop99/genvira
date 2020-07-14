@@ -12,19 +12,19 @@ draft: false
 
 {{< flex-column >}}
   <center>
-    <img src="/img/lab-1.jpg", width="100%">
+    {{< img src="lab-1.jpg" width="100%" >}}
   </center>
 {{< /flex-column >}}
 
 {{< flex-column >}}
   <center>
-    <img src="/img/lab-2.jpg", width="100%" >
+    {{< img src="lab-2.jpg" width="100%" >}}
   </center>
 {{< /flex-column >}}
 
 {{< flex-column >}}
   <center>
-    <img src="/img/lab-3.jpg", width="100%" >
+    {{< img src="lab-3.jpg" width="100%" >}}
   </center>
 {{< /flex-column >}}
 
