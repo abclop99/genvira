@@ -53,7 +53,7 @@ font_size = "20px"
         <br>
         """
     
-    copyright = "© 2020 Genvira Biosciences Inc. All Rights Reserved"
+    copyright = "© 2024 Genvira Biosciences Inc. All Rights Reserved"
     
     about_us = "Specialists in viral vector engineering for cancer immunotherapy, gene therapy, and vaccines."
    
