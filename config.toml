@@ -10,31 +10,31 @@ relativeURLs = true
 [[menu.main]]
     identifier="home"
     name = "Home"
-    url  = "/"
+    url  = ""
     weight = 1
 
 [[menu.main]]
     identifier="about-us"
     name = "About Us"
-    url  = "/about-us"
+    url  = "about-us"
     weight = 2
 
 [[menu.main]]
     identifier="services"
     name = "Services"
-    url  = "/services"
+    url  = "services"
     weight = 3
 
 [[menu.main]]
     identifier="research"
     name = "Research"
-    url  = "/research"
+    url  = "research"
     weight = 4
 
 [[menu.main]]
     identifier="career"
     name = "Career"
-    url  = "/career"
+    url  = "career"
     weight = 5
 
 [Params]
