@@ -56,9 +56,25 @@ font_size = "20px"
     copyright = "© 2020 Genvira Biosciences Inc. All Rights Reserved"
     
     about_us = "Specialists in viral vector engineering for cancer immunotherapy, gene therapy, and vaccines."
-    
+   
 [Params.carousel]
     enable = false
     
 [Params.features]
     enable = false
+
+[[Params.social_media]]
+name = "Facebook"
+url = "https://www.facebook.com/Genvira-Biosciences-Inc-108084854302951"
+
+[[Params.social_media]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/company/genvira-biosciences"
+
+[[Params.social_media]]
+name = "Instagram"
+url = "https://www.instagram.com/genvira_biosciences/"
+
+[[Params.social_media]]
+name = "Youtube"
+url = "https://www.youtube.com/channel/UCPRnNzJHrO2ETvVwaZiA6wg"
