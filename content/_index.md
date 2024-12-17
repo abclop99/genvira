@@ -8,29 +8,29 @@ aliases:
 
 {{< flex id="frontpage-boxes" >}}
 
-{{< flex-column >}}
-  <center style=>
-        {{< figure src="cell-viral-engineering.jpg" link="/home/cell-and-viral-engineering" width="100%" title="Cell and Viral Engineering" >}}
-  </center>
-{{< /flex-column >}}
+  {{< flex-column >}}
+    <center style=>
+          {{< figure src="cell-viral-engineering.jpg" link="home/cell-and-viral-engineering" width="100%" title="Cell and Viral Engineering" >}}
+    </center>
+  {{< /flex-column >}}
 
-{{< flex-column >}}
-  <center>
-        {{< figure src="assay-dev.jpg" link="/home/assay-development" width="100%" title="Assay Development" >}}
-  </center>
-{{< /flex-column >}}
+  {{< flex-column >}}
+    <center>
+          {{< figure src="assay-dev.jpg" link="home/assay-development" width="100%" title="Assay Development" >}}
+    </center>
+  {{< /flex-column >}}
 
-{{< flex-column >}}
-  <center>
-        {{< figure src="animal-models.jpg" link="/home/animal-models" width="100%" title="Animal Models" >}}
-  </center>
-{{< /flex-column >}}
+  {{< flex-column >}}
+    <center>
+          {{< figure src="animal-models.jpg" link="home/animal-models" width="100%" title="Animal Models" >}}
+    </center>
+  {{< /flex-column >}}
 
-{{< flex-column >}}
-  <center>
-        {{< figure src="production.jpg" link="/home/process-development-and-small-scale-production" width="100%" title="PD and Small-scale Production" >}}
-  </center>
-{{< /flex-column >}}
+  {{< flex-column >}}
+    <center>
+          {{< figure src="production.jpg" link="home/process-development-and-small-scale-production" width="100%" title="PD and Small-scale Production" >}}
+    </center>
+  {{< /flex-column >}}
 
 {{< /flex >}}
 
